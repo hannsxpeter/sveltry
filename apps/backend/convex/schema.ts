@@ -33,7 +33,7 @@ export const ingestFiltersValidator = v.object({
 /** Per-project source-repo config, used to build "open in repo" links for stack frames. */
 export const repoConfigValidator = v.object({
   provider: v.union(v.literal('github'), v.literal('gitlab'), v.literal('bitbucket')),
-  /** Repo web base URL, e.g. `https://github.com/aihxp/sveltry` (https, trailing slash stripped). */
+  /** Repo web base URL, e.g. `https://github.com/hannsxpeter/sveltry` (https, trailing slash stripped). */
   baseUrl: v.string(),
   /** Branch to link when no release commit SHA is available. */
   defaultBranch: v.string(),

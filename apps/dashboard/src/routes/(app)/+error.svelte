@@ -6,7 +6,7 @@
   import { Button } from '$lib/components/ui/button';
   import CircleAlertIcon from '@lucide/svelte/icons/circle-alert';
 
-  const REPO = 'https://github.com/aihxp/sveltry';
+  const REPO = 'https://github.com/hannsxpeter/sveltry';
   const status = $derived(page.status);
   const message = $derived(page.error?.message ?? 'Something went wrong on this page.');
 </script>

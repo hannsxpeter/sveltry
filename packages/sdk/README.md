@@ -1,7 +1,7 @@
 # @aihxp/sveltry-sdk
 
 Point official [Sentry](https://sentry.io) SDKs at a self-hosted
-[Sveltry](https://github.com/aihxp/sveltry) deployment. Sveltry implements the
+[Sveltry](https://github.com/hannsxpeter/sveltry) deployment. Sveltry implements the
 Sentry ingestion wire protocol, so you keep using the battle-tested `@sentry/*`
 clients and only change where events are sent.
 

@@ -4,7 +4,7 @@
 
 ## Snapshot
 
-- **Project**: Sveltry, a self-hosted, Sentry-wire-compatible error tracker (open source, Apache-2.0, single-author `aihxp`).
+- **Project**: Sveltry, a self-hosted, Sentry-wire-compatible error tracker (open source, Apache-2.0, single-author `hannsxpeter`).
 - **State**: commit `09044c7`, branch `main`, tag `v0.9.3` (pre-1.0, post-remediation).
 - **Languages**: TypeScript, Svelte 5 (runes), JavaScript (ESM config), CSS (Tailwind v4).
 - **Frameworks**: SvelteKit 2 + Svelte 5; Convex 1.41 self-hosted; Better Auth 1.6 (Convex component, no app Postgres); convex-svelte; Tailwind v4 + bits-ui; Vitest 3 + `convex-test` and `bun:test`; `fflate`; ESLint 10 flat config.
