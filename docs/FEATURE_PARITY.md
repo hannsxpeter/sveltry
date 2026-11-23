@@ -182,5 +182,5 @@ For sequencing and what is coming Next vs Later, see [ROADMAP.md](./ROADMAP.md).
 ---
 
 Missing something you need? Open a
-[feature request](https://github.com/aihxp/sveltry/issues/new?template=feature_request.yml) or see
+[feature request](https://github.com/hannsxpeter/sveltry/issues/new?template=feature_request.yml) or see
 the [ROADMAP.md](./ROADMAP.md) for what is coming Next vs Later.

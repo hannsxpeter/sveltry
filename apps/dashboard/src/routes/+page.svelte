@@ -12,7 +12,7 @@
   import GaugeIcon from '@lucide/svelte/icons/gauge';
   import CheckIcon from '@lucide/svelte/icons/check';
 
-  const REPO = 'https://github.com/aihxp/sveltry';
+  const REPO = 'https://github.com/hannsxpeter/sveltry';
   const DOCS = `${REPO}/tree/main/docs`;
   const QUICKSTART = `${REPO}/blob/main/docs/QUICKSTART.md`;
 

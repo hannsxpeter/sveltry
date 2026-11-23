@@ -30,7 +30,7 @@
   import MenuIcon from '@lucide/svelte/icons/menu';
   import XIcon from '@lucide/svelte/icons/x';
 
-  const REPO = 'https://github.com/aihxp/sveltry';
+  const REPO = 'https://github.com/hannsxpeter/sveltry';
   const helpLinks = [
     { label: 'Documentation', href: `${REPO}/tree/main/docs` },
     { label: 'Quickstart', href: `${REPO}/blob/main/docs/QUICKSTART.md` },

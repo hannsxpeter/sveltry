@@ -5,13 +5,13 @@
   "description": "Point official Sentry SDKs at a self-hosted Sveltry deployment: DSN builder, recommended init options, and an ad-blocker-proof tunnel handler.",
   "license": "Apache-2.0",
   "author": "The Sveltry Authors",
-  "homepage": "https://github.com/aihxp/sveltry/tree/main/packages/sdk#readme",
+  "homepage": "https://github.com/hannsxpeter/sveltry/tree/main/packages/sdk#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aihxp/sveltry.git",
+    "url": "git+https://github.com/hannsxpeter/sveltry.git",
     "directory": "packages/sdk"
   },
-  "bugs": "https://github.com/aihxp/sveltry/issues",
+  "bugs": "https://github.com/hannsxpeter/sveltry/issues",
   "keywords": [
     "sentry",
     "sveltry",

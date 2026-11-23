@@ -9,7 +9,7 @@
 Point the official Sentry SDKs you already use at your own infrastructure. Sveltry speaks the
 Sentry wire protocol, groups your errors into issues, and streams them to a live dashboard.
 
-[![CI](https://github.com/aihxp/sveltry/actions/workflows/ci.yml/badge.svg)](https://github.com/aihxp/sveltry/actions/workflows/ci.yml)
+[![CI](https://github.com/hannsxpeter/sveltry/actions/workflows/ci.yml/badge.svg)](https://github.com/hannsxpeter/sveltry/actions/workflows/ci.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Made with Bun](https://img.shields.io/badge/Bun-1.3-black?logo=bun)](https://bun.com)
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-2-ff3e00?logo=svelte)](https://svelte.dev)
@@ -65,7 +65,7 @@ thousand rows. See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 Prerequisites: [Bun](https://bun.com) 1.3+, Docker, and `openssl`.
 
 ```sh
-git clone https://github.com/aihxp/sveltry.git
+git clone https://github.com/hannsxpeter/sveltry.git
 cd sveltry
 ./scripts/setup.sh        # secrets, Postgres + Convex, deploy functions
 bun run dev:dashboard     # http://localhost:5173

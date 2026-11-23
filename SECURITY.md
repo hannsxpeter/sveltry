@@ -27,7 +27,7 @@ publicly until a fix has been released and coordinated.
 Use either channel:
 
 - GitHub Security Advisories (preferred): open a private report at
-  https://github.com/aihxp/sveltry/security/advisories/new
+  https://github.com/hannsxpeter/sveltry/security/advisories/new
 - Email: hprincivil@gmail.com
 
 If you need to send sensitive details by email, mention that you would like an

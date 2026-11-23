@@ -19,7 +19,7 @@ that unmodified official `@sentry/*` SDKs can report to it.
 ## Getting set up
 
 ```bash
-git clone https://github.com/aihxp/sveltry.git
+git clone https://github.com/hannsxpeter/sveltry.git
 cd sveltry
 bun install
 ./scripts/setup.sh

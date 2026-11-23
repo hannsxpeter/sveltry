@@ -102,4 +102,4 @@ Valuable, but a larger surface or a new subsystem:
   the team-and-product scale Sveltry targets.
 
 Have a feature you need? Open a
-[feature request](https://github.com/aihxp/sveltry/issues/new?template=feature_request.yml).
+[feature request](https://github.com/hannsxpeter/sveltry/issues/new?template=feature_request.yml).

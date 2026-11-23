@@ -5,7 +5,7 @@
   import { Button } from '$lib/components/ui/button';
   import Logo from '$lib/components/Logo.svelte';
 
-  const REPO = 'https://github.com/aihxp/sveltry';
+  const REPO = 'https://github.com/hannsxpeter/sveltry';
   const status = $derived(page.status);
   const message = $derived(
     page.error?.message ??
